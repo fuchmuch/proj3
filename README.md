@@ -26,7 +26,6 @@
 * React
 * Redux
 * PostgreSQL
-* Authentication
 
 
 ***
