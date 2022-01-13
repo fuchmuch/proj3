@@ -1,6 +1,6 @@
 # proj3
 # Project 3
-<https://i.imgur.com/Un2KHjt.jpg>
+<img src=https://i.imgur.com/Un2KHjt.jpg>
 
 #### Date of creation: Jan.13.2022
 ### By: Casey Stewart, Jonathan Mastin, Diego Pedraza, Gihae Choi
