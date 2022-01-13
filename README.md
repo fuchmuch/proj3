@@ -1,5 +1,4 @@
-# proj3
-# Project 3
+# The Bill Hill
 <img src=https://i.imgur.com/Un2KHjt.jpg>
 
 #### Date of creation: Jan.13.2022
