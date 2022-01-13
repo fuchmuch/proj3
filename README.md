@@ -13,7 +13,7 @@
 
 ### ***Screenshots***
 
-![Alt Text](https://64.media.tumblr.com/cf851df934fef705d6d0f57117b670fe/tumblr_pwfz4lGcVn1ypo8pvo1_540.gifv)
+![Alt Text](https://clickamericana.com/wp-content/uploads/Im-Just-A-Bill-Schoolhouse-Rock-1975-3-1-750x509.jpg)
 
 (As a reference of The Bill Hill)
 
