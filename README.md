@@ -40,7 +40,6 @@
 - [ ] add buttons with notifications: ex)'favorite','search'
 - [ ] add Databases
 - [ ] Integrate a 3rd party API
-- [ ] 
 
 ***
 
