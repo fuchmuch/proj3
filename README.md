@@ -7,7 +7,7 @@
 
 ***
 ### ***The Bill Hill***
-#### Looking for monitoring bills in United States? The Bill Hill is to design and build for users to help search and favorite their needs of bills easier. find best places to stay and travel by filtering their need of desires. Users can make their favorite bills to track and check within a personal space.
+#### Looking for monitoring bills in United States? The Bill Hill is to design and build for users to help search and favorite their needs of bills easier. Users can make their favorite bills to track and check within a personal space.
 
 ***
 
